@@ -8,3 +8,34 @@ h1 {
     text-align: center;
     color: #000000;
 }
+
+.access{
+    position: relative;
+    top: 400px;
+    left: 400px;
+}
+
+button{
+    position: relative;
+    top: 425px;
+    left: 730px;
+}
+
+/*#day {
+    position: relative;
+    top: 400px;
+    
+}
+
+#month {
+    position: relative;
+    top: 400px;
+    left: 100px;
+}
+
+#year{
+    position: relative;
+    top: 400px;
+    left: 200px;
+}*/
+
